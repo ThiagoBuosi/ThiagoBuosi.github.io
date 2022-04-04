@@ -1,16 +1,35 @@
-body {
-    background-color: wheat;
-}
+    body {
+        background-color: wheat;
+    }
 
-h2 {
-    color: orange;
-}
+    h2 {
+        color: orange;
+    }
 
-h1 {
-    color: green;
-}
+    h1 {
+        color: green;
+    }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-}
+    #Nome {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .habilidade {
+        font-size: 16px; 
+    }
+
+    .lugares {
+        font-size: 16px;
+    }
+
+    .links {
+        font-size: 16px;
+        font-weight: 700; 
+        line-height: 20px;
+        display: inline-block;
+        border: 2px solid green;
+    }
+
+    .Alinhamento {
+        border: 2px solid red;
+        padding-left: 100px;
+    }
